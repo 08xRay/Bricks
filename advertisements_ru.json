@@ -1,401 +1,45 @@
 {
-	"ads_count": 2,
+	"ads_count": 3,
     "advertisements": [
         {
             "name": "Фото на документы Free",
-            "desc": "ID Photo - это простое, удобное и бесплатное приложение, которое позволяет делать фотографии на документы (паспорт, виза ,водительское удостоверение и т.д.).",
             "package": "com.exigenservices.photofordocuments",
-            "image_url": "https://dl.dropboxusercontent.com/s/3ru7evqgn5dhw0q/idPhotoFREE.png?token_hash=AAGJczhCQKog8NC2uxpGtlntux_ll6aIgn3aiyi3qYJ-2A&dl=1"
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/idPhotoFREE.png"
         },
 		{
             "name": "Волки HQ Живые обои",
-            "desc": "Для многих народов образ волка связан с родоначальником племени и культом бога войны. Грозные, сильные, независимые - такие образы волка предстанут перед вами после установки приложения.",
-            "package": "com.herowayart.livewallpaper.wolves",
-            "image_url": "https://dl.dropboxusercontent.com/s/6e867y4dh0yup45/wolves.png?token_hash=AAFJBFAqHX8I9szbC8QeorKsbSs70MlqZHn8gsJNqrrL1w&dl=1"
+            "package": "com.aestudio.livewallpaper.wolves",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
         },
 		{
-            "name": "Сталкер HQ Живые обои",
-            "desc": "Большая подборка изображений о сталкерах в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.stalker",
-            "image_url": "https://dl.dropboxusercontent.com/s/v36kkyw9wwr1q8h/stalker.png?token_hash=AAEo3lOBahQlfTkhobEetNcfyWIn9H9pDJr1n5YICca1eg&dl=1"
-        },
+            "name": "Радиация HQ Живые обои",
+            "package": "com.aestudio.livewallpaper.radiation",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/stalker.png"
+        },,
 		{
-            "name": "Линукс HQ Живые обои",
-            "desc": "Большая подборка изображений о ОС Линукс в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.linux",
-            "image_url": "https://dl.dropboxusercontent.com/s/au0l3v7aetkjq9c/linux.png?token_hash=AAHCr0TK-4JoPpHcp4LYJzvpIHLVZcdxMiFWYQHfcZpdXA&dl=1"
-        },
-		{
-            "name": "Страсть HQ Живые обои",
-            "desc": "Танец, ласки, поцелуй, после долгой разлуки - вот где можно увидеть настоящую страсть.",
-            "package": "com.herowayart.livewallpaper.passion",
-            "image_url": "https://dl.dropboxusercontent.com/s/29novdkv16qem0f/passion.png?token_hash=AAG9VbSU_uRvyrXl_KdBpgSmrVNhQGWIs0tn57ChhIQQ_w&dl=1"
-        },
-		{
-            "name": "Спорт HQ Живые обои",
-            "desc": "Качественная подборка мотивирующих сюжетов о спорте и работе над собой.",
-            "package": "com.herowayart.livewallpaper.sport",
-            "image_url": "https://dl.dropboxusercontent.com/s/oakzihsa0mpqeo0/sport.png?token_hash=AAEnAw-uQCCxLURuw4r2vZWmH15Hd_5pJSzFdoEIPbsf7w&dl=1"
-        },
-		{
-            "name": "Фото на документы Pro",
-            "desc": "ID Photo - это простое, удобное приложение, которое позволяет делать фотографии на документы (паспорт, виза ,водительское удостоверение и т.д.).",
-            "package": "com.jedisalat.idphoto",
-            "image_url": "https://dl.dropboxusercontent.com/s/moksl0gyyiu6e5u/idPhotoPro.png?token_hash=AAEGBcm2qWpttls7xKv7jOYI7zCtrHCnmEhVZQxQGzIU2w&dl=1"
-        },
-		{
-            "name": "Авиация HQ Живые обои",
-            "desc": "Качественная подборка авиационной техники на любой вкус.",
-            "package": "com.herowayart.livewallpaper.airforce",
-            "image_url": "https://dl.dropboxusercontent.com/s/lnqeu9hvtmd8sq3/airforce.png?token_hash=AAFg_0eJ8Lnc5h9RbpJP5k3wVtCFefQnhm8_XodAlhOoPw&dl=1"
-        },
-		{
-            "name": "Любовь HQ Живые обои",
-            "desc": "Тот не жил, кто не любил. Подборка красивых моментов в высоком качестве на бесконечную тему любви.",
-            "package": "com.herowayart.livewallpaper.love",
-            "image_url": "https://dl.dropboxusercontent.com/s/p1shdcw5gs3id60/love.png?token_hash=AAE1E-T_FqI-FIGRrRXCxPz4qn9TMwYjugJNUIHzCLcO9w&dl=1"
-        },
-		{
-            "name": "Танки HQ Живые обои",
-            "desc": "Качественная подборка изображений с различными моделями танков.",
-            "package": "com.herowayart.livewallpaper.tanks",
-            "image_url": "https://dl.dropboxusercontent.com/s/wh76g1o08neskt3/tanks.png?token_hash=AAHHWmoD15aF4PIqXBLqs0qVfPS60sxvKdOvRJ5xDP3yCw&dl=1"
-        },
-		{
-            "name": "Водопад HQ Живые обои",
-            "desc": "Подборка живописных изображений с водопадом в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.waterfall",
-            "image_url": "https://dl.dropboxusercontent.com/s/fq7nqp4oaiubm2h/waterfall.png?token_hash=AAEtNS_zZJZT3kB73uIKwQiS7SjihRNh3LfHOpap9o5NqA&dl=1"
+            "name": "Джокер HQ Живые обои",
+            "package": "com.aestudio.livewallpaper.joker",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/joker.png"
         },
 		{
             "name": "Тигры HQ Живые обои",
-            "desc": "Большая подборка фотографий с тиграми в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.tiger",
-            "image_url": "https://dl.dropboxusercontent.com/s/wucvfvrxeptkfh1/tiger.png?token_hash=AAFiGlACPwU-klWmWVbr9vTYwQ7igfC0SFzhsiYF2TPTCQ&dl=1"
+            "package": "com.aestudio.livewallpaper.tiger",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/tiger.png"
         },
 		{
-            "name": "Дождь HQ Живые обои",
-            "desc": "Большая подборка фотографий на тему дождя в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.rain",
-            "image_url": "https://dl.dropboxusercontent.com/s/sb3hrzwzsigtr2b/rain.png?token_hash=AAHfo1fBJNdBsaGh-yn9c9Ujcp5Q6IBNcCn7t7J9AZVv7Q&dl=1"
+            "name": "Волк 3D Живые обои",
+            "package": "com.rsbartstudio.livewallpaper.wolf",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolf3d.png"
         },
 		{
-            "name": "Море HQ Живые обои",
-            "desc": "Подборка красивых сюжетов о море и все, что с ним связано.",
-            "package": "com.herowayart.livewallpaper.sea",
-            "image_url": "https://dl.dropboxusercontent.com/s/mvcrzwr0agdx57s/sea.png?token_hash=AAEJaNyNFhucyz73vXk9sU8TBkX7ZW9M9qzkUEvklbF9-Q&dl=1"
+            "name": "Радиация 3D Живые обои",
+            "package": "com.rsbartstudio.livewallpaper.radiation",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/radiation3d.png"
         },
 		{
-            "name": "Космос HQ Живые обои",
-            "desc": "Качественная подборка сюжетов о космосе.",
-            "package": "com.herowayart.livewallpaper.space",
-            "image_url": "https://dl.dropboxusercontent.com/s/46g6rmj5wm6rg7x/space.png?token_hash=AAGY-L7oyRSfZt4cyRMoZhu28ktI9PUpStUspEs7qCS5GQ&dl=1"
-        },
-		{
-            "name": "Кофе и Шоколад HQ Живые обои",
-            "desc": "Подборка бодрящих сюжетов на тему кофе и шоколада. Для настоящих гурманов.",
-            "package": "com.herowayart.livewallpaper.coffeeandchocolate",
-            "image_url": "https://dl.dropboxusercontent.com/s/1omqqnvx9vijsge/coffeandchoco.png?token_hash=AAHNXOdfQPbVFDd1ahJYCClPqJ5iXoq8L0c0Cd5QNndp7g&dl=1"
-        },
-		{
-            "name": "Мегаполис HQ Живые обои",
-            "desc": "Ночные виды на мегаполисы мира. От Нью-Йорка до Гонг-Конга.",
-            "package": "com.herowayart.livewallpaper.megalopolis",
-            "image_url": "https://dl.dropboxusercontent.com/s/oqolx6wr2xpab45/megalopolis.png?token_hash=AAG-iQahkw_5OH0MjWYbQJObgc5QqaVMIX7QkP1ctx357w&dl=1"
-        },
-		{
-            "name": "Гроза HQ Живые обои",
-            "desc": "Природная стихия предстанет перед вами во всей своей красе.",
-            "package": "com.herowayart.livewallpaper.storm",
-            "image_url": "https://dl.dropboxusercontent.com/s/lk8lrws9ch5yluf/storm.png?token_hash=AAGCJTcTNw0AUpe-NfybyVWPLFDw4tdPeJ7elipQ3_kqIw&dl=1"
-        },
-		{
-            "name": "Лошади HQ Живые обои",
-            "desc": "Загружайте живые обои с лошадьми в высоком качестве на ваше устройство абсолютно бесплатно.",
-            "package": "com.herowayart.livewallpaper.horses",
-            "image_url": "https://dl.dropboxusercontent.com/s/uakgqp9wg8t1f6e/horses.png?token_hash=AAFWZWgDMuYlPErF28JkXm1crWnNdQWnGmUYTpZp2TwuSw&dl=1"
-        },
-		{
-            "name": "Собаки в Жизни HQ Живые обои",
-            "desc": "Подборка забавных обоев о наших меньших братьях в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.dogsinlife",
-            "image_url": "https://dl.dropboxusercontent.com/s/xye9cyg3jsa3v74/dogsinlife.png?token_hash=AAGVbjzeEUVROpKLSRxG21xX2IN250_X8s1-9oSWNgUORQ&dl=1"
-        },
-		{
-            "name": "Дубай HQ Живые обои",
-            "desc": "Перед вами предстанут лучшие кадры с видом на Дубай из разных ракурсов в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.dubai",
-            "image_url": "https://dl.dropboxusercontent.com/s/g3edes2usjpdtxd/dubai.png?token_hash=AAGZkJoQPeRUsIWlOaRbTwqRslHYjdPg6DCnALW29iIf9Q&dl=1"
-        },
-		{
-            "name": "Графика HQ Живые обои",
-            "desc": "Творческий полет фантазии, подборка красивых сюжетов, выполненных с использованием компьютерной графики, в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.graphics",
-            "image_url": "https://dl.dropboxusercontent.com/s/hvs805dzsfzwk2k/graphics.png?dl=1&token_hash=AAEduk8Pdyp3fsRsBkfXFxGh1bkppfiOyetx2k-38Fc2MA"
-        },
-		{
-            "name": "Лето HQ Живые обои",
-            "desc": "Красивая подборка летних сюжетов.",
-            "package": "com.herowayart.livewallpaper.summer",
-            "image_url": "https://dl.dropboxusercontent.com/s/d36lgpsw63s1e2z/summer.png?dl=1&token_hash=AAH1lO1p76jOsN4kd2leic-PU_PNR-YcUDSgGEV-lVmRpQ"
-        },
-		{
-            "name": "Солнце в лесу HQ Живые обои",
-            "desc": "Победа света над тьмой.Даже в дремучей чаще есть место солнечному свету.",
-            "package": "com.herowayart.livewallpaper.sunintheforest",
-            "image_url": "https://dl.dropboxusercontent.com/s/swq4hkn1j5hc0eg/sunintheforest.png?dl=1&token_hash=AAG1Y135evEjBvFU_kmYvXDYOiXFYgSYy1Fd3qFZddOjJA"
-        },
-		{
-            "name": "Париж HQ Живые обои",
-            "desc": "Красивые изображения французской столицы в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.paris",
-            "image_url": "https://dl.dropboxusercontent.com/s/p7g3pku30zkafa5/paris.png?dl=1&token_hash=AAFQrrzs1PMpLgZqtIFcChm84VZzVz1Ro2gPFnrz487TNw"
-        },
-		{
-            "name": "Рождество HQ Живые обои",
-            "desc": "Подборка праздничных обоев к самому ожидаемому событию уходящего года в высоком качестве. Счастливого Рождества!",
-            "package": "com.herowayart.livewallpaper.christmas",
-            "image_url": "https://dl.dropboxusercontent.com/s/wxxg1cawyec4qki/cristmas.png?dl=1&token_hash=AAGD6fcFFz66KX15Shs7RCyrrDTBbPuI308_uOygambpfA"
-        },
-		{
-            "name": "Новый год HQ Живые обои",
-            "desc": "Подборка праздничных обоев к самому ожидаемому событию уходящего года в высоком качестве. Весёлого Рождества и счастливого Нового года!",
-            "package": "com.herowayart.livewallpaper.newyear",
-            "image_url": "https://dl.dropboxusercontent.com/s/80vjftzqd6kucfi/newyear.png?dl=1&token_hash=AAHy_iBZh5oxdswrn3o7ueR3qprY8C2dt9koQjYoCkXFbA"
-        },
-		{
-            "name": "Зима HQ Живые обои",
-            "desc": "Перед Вашим взором предстанут виды снежных склонов гор, морозные берега Антарктики, зимние скверы, леса и луга.",
-            "package": "com.herowayart.livewallpaper.winter",
-            "image_url": "https://dl.dropboxusercontent.com/s/0ae9h7heb9xhh0h/winter.png?dl=1&token_hash=AAG-obVDZHyUdK9nbgQSbo8ofqwkC6wVictGniFMB-zzRQ"
-        },
-		{
-            "name": "Новогодние Шары HQ Живые обои",
-            "desc": "Подборка красивых обоев с блестящими яркими ёлочными шарами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.baubles",
-            "image_url": "https://dl.dropboxusercontent.com/s/2bdaip9l2ur4846/christmasballs.png?dl=1&token_hash=AAHaAs80n7vjQpyrAI_f-Lhv9ellzJtfIss_0Ip_fbF2eQ"
-        },
-		{
-            "name": "Красивые Поля HQ Живые обои",
-            "desc": "Подборка красивых обоев с видом на просторные поля в разные сезоны года в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.beautifulfields",
-            "image_url": "https://dl.dropboxusercontent.com/s/4vkb0s8jbuxhhwy/beatifulfields.png?dl=1&token_hash=AAFF6N9WjAsxF0ahKDRiHEqrKh2WYHcRQ3WJLLw5JEXjWw"
-        },
-		{
-            "name": "Вкусные Фрукты HQ Живые обои",
-            "desc": "Подборка красивых обоев с сочными, вкусными фруктами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.tastyfruits",
-            "image_url": "https://dl.dropboxusercontent.com/s/7uv5ua9pzpbvyvl/fruits.png?dl=1&token_hash=AAHlhk4Ns1q4B3MwBdMmHJyZA3tdZCdb3m0O110ONLThCQ"
-        },
-		{
-            "name": "Нью Йорк HQ Живые обои",
-            "desc": "Подборка красивых обоев с видами на знаменитый город США в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.newyork",
-            "image_url": "https://dl.dropboxusercontent.com/s/1qwh56llksculvp/newyork.png?dl=1&token_hash=AAGukYroXdFWI5spHzoKeaLREjVIR7Ew60su6QdvgLpmJw"
-        },
-		{
-            "name": "Венеция HQ Живые обои",
-            "desc": "Подборка красивых обоев с видами на прекрасную Венецию, родину композитора Вивальди и дамского угодника Казановы, в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.venice",
-            "image_url": "https://dl.dropboxusercontent.com/s/mcprjjrpw9dez8g/venice.png?dl=1&token_hash=AAER88zH182XvpnIxqDsiaJNkM405AuK4xrJfXJSB7v6Yg"
-        },
-		{
-            "name": "Подводный мир HQ Живые обои",
-            "desc": "Подборка красивых обоев об обитателях водных просторов в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.underwaterworld",
-            "image_url": "https://dl.dropboxusercontent.com/s/aqd4s3m8c429fcm/underwaterworld.png?dl=1&token_hash=AAEh3wasZtkrYSwsARiKXS3jIxci5fZwiVUJO_RKV-kjAw"
-        },
-		{
-            "name": "Дикие Кошки HQ Живые обои",
-            "desc": "Подборка красивых обоев с тиграми, ирбисами, гепардами и прочими представителями семейства кошачьих в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.wildcats",
-            "image_url": "https://dl.dropboxusercontent.com/s/vas243pg8ej1qy5/wildcats.png?dl=1&token_hash=AAEEk2V2JesV7MnCuPMqhOszDi_IDefmeqm3eCOs-hjhBA"
-        },
-		{
-            "name": "Сноубординг HQ Живые обои",
-            "desc": "Подборка красивых обоев с профессиональными сноубордистами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.snowboarding",
-            "image_url": "https://dl.dropboxusercontent.com/s/b6oy4akodxudwz5/snowboarding.png?dl=1&token_hash=AAEFmNSFH_oSIgGXTK114UVbslom8ANyCpcwrRIJaTDGfw"
-        },
-		{
-            "name": "Тёмные цветы HQ Живые обои",
-            "desc": "Подборка красивых обоев с цветами в темных тонах в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.darkflowers",
-            "image_url": "https://dl.dropboxusercontent.com/s/y4w942uc9bvmdw3/darkflowers.png?dl=1&token_hash=AAE3AjqQbeWrVmx-_RyMKF4LOXnXC727CMiKq6d_fNpAvg"
-        },
-		{
-            "name": "Большие Города HQ Живые обои",
-            "desc": "Подборка красивых обоев с городскими панорамами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.bigcities",
-            "image_url": "https://dl.dropboxusercontent.com/s/65jdqi91frh97y4/bigcities.png?dl=1&token_hash=AAEY5EOA4g3epW3OERL9uj8kJ5kYs-iyS7kLVUIQv9mF1g"
-        },
-		{
-            "name": "Хаски HQ Живые обои",
-            "desc": "Хаски — это прежде всего облик легкости и быстроты, собаки этой породы обладают дружелюбным и спокойным, но вместе с этим живым характером. Вы увидите подборку красивых тематических обоев о хаски в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.husky",
-            "image_url": "https://dl.dropboxusercontent.com/s/0gnalhu0dq75vy5/husky.png?dl=1&token_hash=AAFWMugmCJDx_UulkjXaDSbYxwotFazdDtKDBF8nMUoHMg"
-        },
-		{
-            "name": "Пантеры HQ Живые обои",
-            "desc": "Подборка красивых обоев с пантерами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.panthers",
-            "image_url": "https://dl.dropboxusercontent.com/s/gkqzq1epiook6ra/panthers.png?dl=1&token_hash=AAGLx1EvbDRctsOYVI0AR4V20ncVhEnvozLLIK5YuaZNTg"
-        },
-		{
-            "name": "Белый в Цветах HQ Живые обои",
-            "desc": "Подборка красивых обоев с цветами в светлых тонах в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.whiteinflowers",
-            "image_url": "https://dl.dropboxusercontent.com/s/g2jipxk2orvt0vs/whiteinflowers.png?dl=1&token_hash=AAEWqyfBRZlO9_iRAltfp5no5_9jLHaaeyStyUEzSEIZxw"
-        },
-		{
-            "name": "Сладости HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными сладостями в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.sweets",
-            "image_url": "https://dl.dropboxusercontent.com/s/b5et9j1ywrw0zdy/candys.png?dl=1&token_hash=AAEPcWdR6Ob3YmedxcQ-yAlPHcpdtYFwKZDESEMTgQCZ4g"
-        },
-		{
-            "name": "Швейцария HQ Живые обои",
-            "desc": "Швейцария — одна из самых развитых и богатых стран мира. Климат и пейзаж варьируются в различных областях страны, здесь можно обнаружить мхи и лишайники, а также пальмы и мимозы. Все это природное богатство и разнообразие делают Швейцарию одним из самых живописных мест на планете.",
-            "package": "com.herowayart.livewallpaper.switzerland",
-            "image_url": "https://dl.dropboxusercontent.com/s/ii595uk966b88nj/switzerland.png?dl=1&token_hash=AAH9qWhplN5YjiZhca6suuNyrWCo-X-YAGMRgTenkQcFyA"
-        },
-		{
-            "name": "Медведи HQ Живые обои",
-            "desc": "Подборка красивых обоев с медведями разных подвидов в высоком качестве. Местами сильные, мощные и грозные, местами милые и забавные медведи предстанут перед Вами после установки приложения.",
-            "package": "com.herowayart.livewallpaper.bears",
-            "image_url": "https://dl.dropboxusercontent.com/s/013rqu0btu0kl70/bears.png?dl=1&token_hash=AAGYw2OEBIx1w9f8Bc_jZKaqm6hCMzLN9JF1BqcTIE6WOQ"
-        },
-		{
-            "name": "Музыка и Ноты HQ Живые обои",
-            "desc": "Подборка красивых обоев на музыкальную тему в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.music",
-            "image_url": "https://dl.dropboxusercontent.com/s/xje4juft5402xg1/music.png?dl=1&token_hash=AAHTz12yPKDtzriWBT7NqlRvrVD2o1jYy2lo7ZKlri23aA"
-        },
-		{
-            "name": "Альпы HQ Живые обои",
-            "desc": "Подборка красивых обоев с Альпийскими горами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.alpes",
-            "image_url": "https://dl.dropboxusercontent.com/s/igc8s6dkv3rt6q9/alpes.png?dl=1&token_hash=AAGLSL34nEAyvgdOJqK3qvDvHoaeM_ImYAOfII64-kh19A"
-        },
-		{
-            "name": "Романтика HQ Живые обои",
-            "desc": "Подборка красивых романтических обоев в высоком качестве. Поцелуи у моря, совместные прогулки, приятные неожиданные подарки - все это проявления любви. Там, где есть любовь, всегда найдется место для романтики.",
-            "package": "com.herowayart.livewallpaper.romance",
-            "image_url": "https://dl.dropboxusercontent.com/s/bgyqmiinswviqfu/romantic.png?dl=1&token_hash=AAGkigHiVzeI_o_Ie2J5a-M-zZ_PKaGYFB9yE3zzlkCbuw"
-        },
-		{
-            "name": "Облака HQ Живые обои",
-            "desc": "Подборка красивых обоев с облаками, синим небом и интересными сюжетами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.sky",
-            "image_url": "https://dl.dropboxusercontent.com/s/fol5u00d8j9zts2/sky.png?dl=1&token_hash=AAF1FB7BV0ie8ia9Av8M8QpQ5V7EWQ0piJH-j9tixfvIrw"
-        },
-		{
-            "name": "Планеты HQ Живые обои",
-            "desc": "Подборка красивых обоев на космическую тему в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.planets",
-            "image_url": "https://dl.dropboxusercontent.com/s/h4yg7c2jwhiy5bm/planets.png?dl=1&token_hash=AAGfUYdAcZzc3mjoqfgNI2froJA360-XgrzPAyE2HYBYZw"
-        },
-		{
-            "name": "Мосты HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными видами на мосты в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.bridges",
-            "image_url": "https://dl.dropboxusercontent.com/s/jked4w90risgy2w/bridges.png?dl=1&token_hash=AAGPzTqSOPO5vz7c0frOkuaiRbMDgo-sMqLIHsFQC1k6EQ"
-        },
-		{
-            "name": "Греция HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными видами Греции в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.greece",
-            "image_url": "https://dl.dropboxusercontent.com/s/bt5487n8g3ypmym/greece.png?dl=1&token_hash=AAGqTtAzVBblQ_0ysuc1CLGFfolBZ-J4pz8BMUXm7vpu9A"
-        },
-		{
-            "name": "Франция HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными видами Франции в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.france",
-            "image_url": "https://dl.dropboxusercontent.com/s/3kwe5sxvbbgnda5/france.png?dl=1&token_hash=AAHCi1WXUH0AuAL8TTMgmJ3tYDyUMRWXCwLHPYpuBpRAQg"
-        },
-		{
-            "name": "Панда HQ Живые обои",
-            "desc": "Подборка красивых обоев с большой и малой пандами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.panda",
-            "image_url": "https://dl.dropboxusercontent.com/s/yr8s49w4v5hftom/panda.png?dl=1&token_hash=AAGY2x7l3QBJPHAlWgqCl5ITTxMJsdvXkI-Sk0evvd0KSg"
-        },
-		{
-            "name": "Дорога HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными трассами и дорогами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.highway",
-            "image_url": "https://dl.dropboxusercontent.com/s/xn6rj1keoybwrs5/highway.png?dl=1&token_hash=AAGWhJzPiwbALYUi44ufRkOCFrLf_zn9y6u4y2ow_mTa3A"
-        },
-		{
-            "name": "Лес HQ Живые обои",
-            "desc": "Подборка красивых обоев с различными лесными видами в высоком качестве. Зимние шубы на ветвях, осенняя игра красок, летняя свежесть и солнечные лучи - все это предстанет перед Вами после установки.",
-            "package": "com.herowayart.livewallpaper.forest",
-            "image_url": "https://dl.dropboxusercontent.com/s/fn8ybycl4l9vvl9/forest.png?dl=1&token_hash=AAGmiDBRUvX7fd2FmbjejZBLu30SRka4zDyGntEGi217xQ"
-        },
-		{
-            "name": "Золото HQ Живые обои",
-            "desc": "Подборка красивых обоев с золотыми слитками и монетами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.gold",
-            "image_url": "https://dl.dropboxusercontent.com/s/rakxy0tsln1e9tb/gold.png?dl=1&token_hash=AAG7bxqs0Qfdaq4hlMydLm7wTsbj-L1VixujiTZMeNAHgw"
-        },
-		{
-            "name": "Весна HQ Живые обои",
-            "desc": "Подборка красивых обоев о весне в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.spring",
-            "image_url": "https://dl.dropboxusercontent.com/s/ygl6ooq08f18306/spring.png?dl=1&token_hash=AAGTe7wXBwwrOn1cwLbJhDPBRMkzYk_KZ-YlPQ6XU4wZbg"
-        },
-		{
-            "name": "Кошки HQ Живые обои",
-            "desc": "Подборка красивых обоев с кошками и маленькими котятами.",
-            "package": "com.herowayart.livewallpaper.cats",
-            "image_url": "https://dl.dropboxusercontent.com/s/5ug4oljro2q2ppz/cats.png?dl=1&token_hash=AAHqZtJIy8-4kQXbcC7l6k_dKP7GWTR_ZEVq1k76LK_hvw"
-        },
-		{
-            "name": "Парусники и Яхты HQ Живые обои",
-            "desc": "Подборка красивых обоев с парусниками и яхтами в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.boats",
-            "image_url": "https://dl.dropboxusercontent.com/s/goxnb98ensb2306/boats.png?dl=1&token_hash=AAHXBscY_AZNwpxxnYuFlBj6ylSpgSJ3Y9qg8DsTB8d8SA"
-        },
-		{
-            "name": "Львы HQ Живые обои",
-            "desc": "Подборка красивых обоев со львами, царями зверей, в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.lions",
-            "image_url": "https://dl.dropboxusercontent.com/s/2xlihx621u16buj/lions.png?dl=1&token_hash=AAH8Fgm2Snt8YGurzEYYgYrDCWHNzPkk8GaCISDki5f1xg"
-        },
-		{
-            "name": "Италия HQ Живые обои",
-            "desc": "Подборка красивых обоев с кадрами из Италии в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.italy",
-            "image_url": "https://dl.dropboxusercontent.com/s/4ztb8p0uj6e09nz/italy.png?dl=1&token_hash=AAHJaFqv7XGA0K3vQ2KQ1bBucEAamEDGmTjYkvsE_tos7w"
-        },
-		{
-            "name": "Черный и Белый HQ Живые обои",
-            "desc": "Основная идея - преподнести повседневную реальность в новом свете, для чего используются необычные ракурсы съемки изображенных объектов и выбор двух цветов в качестве базиса. В результате, перед Вами предстанет единая композиция из различных слабосвязных деталей, которые собираются воедино благодаря общей атмосфере загадочности.",
-            "package": "com.herowayart.livewallpaper.blackwhite",
-            "image_url": "https://dl.dropboxusercontent.com/s/ujgvahz9ktw2zyi/baw.png?dl=1&token_hash=AAHzXL_VfNyaG3udnhlrnBQYfiJhuQu1g_EEty-VP7Dblg"
-        },
-		{
-            "name": "Акула HQ Живые обои",
-            "desc": "Подборка красивых обоев с акулами в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.shark",
-            "image_url": "https://dl.dropboxusercontent.com/s/pcp9p66zbkunrm8/shark.png?dl=1&token_hash=AAE9rpg28zekuPeQITer3tFPik2hJPDowEv_sjIzQ-AsnA"
-        },
-		{
-            "name": "Рассвет HQ Живые обои",
-            "desc": "Подборка красивых обоев с видами на восход в высоком разрешении.",
-            "package": "com.herowayart.livewallpaper.sunrise",
-            "image_url": "https://dl.dropboxusercontent.com/s/ak9jlp9jo8ko5u5/sunrise.png?dl=1&token_hash=AAGIUsNdHX_PqlyrMDnHWZo6IkjLINl4-WaprqcPTyO6kA"
-        },
-		{
-            "name": "Кофе HQ Живые обои",
-            "desc": "Подборка красивых обоев на тему кофе в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.coffee",
-            "image_url": "https://dl.dropboxusercontent.com/s/89xgy0xtiizl1wo/coffee.png?dl=1&token_hash=AAGB1pJffQlsccTy6nWk45Z7t977dyu57QxWSstRfrh4mQ"
-        },
-		{
-            "name": "Япония HQ Живые обои",
-            "desc": "Подборка красивых обоев с видами на Японию в высоком качестве.",
-            "package": "com.herowayart.livewallpaper.japan",
-            "image_url": "https://dl.dropboxusercontent.com/s/2ajpbl4piryqb98/japan.png?dl=1&token_hash=AAE5QXGSDQdr69OE6jrxbs565BqjuAJh8BbPdYynMnsFng"
-        }			
+            "name": "Хаски 3D Живые обои",
+            "package": "com.rsbartstudio.livewallpaper.husky",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
+        }	
     ]
 }
