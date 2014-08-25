@@ -4,17 +4,17 @@
         {
             "name": "ID Photo Free",
             "package": "com.exigenservices.photofordocuments",
-            "image_url": "https://dl.dropboxusercontent.com/s/3ru7evqgn5dhw0q/idPhotoFREE.png?token_hash=AAGJczhCQKog8NC2uxpGtlntux_ll6aIgn3aiyi3qYJ-2A&dl=1"
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/idPhotoFREE.png"
         },
 		{
             "name": "Wolves HQ Live Wallpaper",
             "package": "com.herowayart.livewallpaper.wolves",
-            "image_url": "https://dl.dropboxusercontent.com/s/6e867y4dh0yup45/wolves.png?token_hash=AAFJBFAqHX8I9szbC8QeorKsbSs70MlqZHn8gsJNqrrL1w&dl=1"
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
         },
 		{
             "name": "Stalker HQ Live Wallpaper",
             "package": "com.herowayart.livewallpaper.stalker",
-            "image_url": "https://dl.dropboxusercontent.com/s/v36kkyw9wwr1q8h/stalker.png?token_hash=AAEo3lOBahQlfTkhobEetNcfyWIn9H9pDJr1n5YICca1eg&dl=1"
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/stalker.png"
         }
     ]
 }
