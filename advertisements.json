@@ -1,5 +1,5 @@
 {
-	"ads_count": 2,
+	"ads_count": 3,
     "advertisements": [
         {
             "name": "ID Photo Free",
@@ -8,13 +8,38 @@
         },
 		{
             "name": "Wolves HQ Live Wallpaper",
-            "package": "com.herowayart.livewallpaper.wolves",
+            "package": "com.aestudio.livewallpaper.wolves",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
         },
 		{
-            "name": "Stalker HQ Live Wallpaper",
-            "package": "com.herowayart.livewallpaper.stalker",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/stalker.png"
+            "name": "Radiation HQ Live Wallpaper",
+            "package": "com.aestudio.livewallpaper.stalker",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/radiation.png"
+        },
+		{
+            "name": "Joker HQ Live Wallpaper",
+            "package": "com.aestudio.livewallpaper.joker",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/joker.png"
+        },
+		{
+            "name": "Tigers HQ Live Wallpaper",
+            "package": "com.aestudio.livewallpaper.tiger",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/tiger.png"
+        },
+		{
+            "name": "Wolf 3D Live Wallpaper",
+            "package": "com.rsbartstudio.livewallpaper.wolf",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolf3d.png"
+        },
+		{
+            "name": "Radiation 3D Live Wallpaper",
+            "package": "com.rsbartstudio.livewallpaper.radiation",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/radiation3d.png"
+        },
+		{
+            "name": "Husky 3D Live Wallpaper",
+            "package": "com.rsbartstudio.livewallpaper.husky",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
         }
     ]
 }
