@@ -12,6 +12,11 @@
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
         },
 		{
+            "name": "Radiation HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.radiation",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/stalker.png"
+        },
+		{
             "name": "Wolf 3D Live Wallpaper",
             "package": "com.rsbartstudio.livewallpaper.wolf",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolf3d.png"
