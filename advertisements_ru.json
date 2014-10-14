@@ -8,23 +8,8 @@
         },
 		{
             "name": "Волки HQ Живые обои",
-            "package": "com.aestudio.livewallpaper.wolves",
+            "package": "com.herowaystudio.livewallpaper.wolves",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
-        },
-		{
-            "name": "Радиация HQ Живые обои",
-            "package": "com.aestudio.livewallpaper.radiation",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/stalker.png"
-        },,
-		{
-            "name": "Джокер HQ Живые обои",
-            "package": "com.aestudio.livewallpaper.joker",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/joker.png"
-        },
-		{
-            "name": "Тигры HQ Живые обои",
-            "package": "com.aestudio.livewallpaper.tiger",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/tiger.png"
         },
 		{
             "name": "Волк 3D Живые обои",
@@ -40,11 +25,6 @@
             "name": "Хаски 3D Живые обои",
             "package": "com.rsbartstudio.livewallpaper.husky",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
-        },
-		{
-            "name": "Джокер 3D Живые обои",
-            "package": "com.rsbartstudio.livewallpaper.humorist",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/joker3d.png"
-        }	
+        }
     ]
 }
