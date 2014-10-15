@@ -30,6 +30,11 @@
             "name": "Husky 3D Live Wallpaper",
             "package": "com.rsbartstudio.livewallpaper.husky",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
+        },
+		{
+            "name": "Beautiful Fields HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.beautifulfields",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/beatifulfields.png"
         }
     ]
 }

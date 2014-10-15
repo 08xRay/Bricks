@@ -30,6 +30,11 @@
             "name": "Хаски 3D Живые обои",
             "package": "com.rsbartstudio.livewallpaper.husky",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
+        },
+		{
+            "name": "Красивые Поля HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.beautifulfields",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/beatifulfields.png"
         }
     ]
 }
