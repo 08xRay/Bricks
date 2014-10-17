@@ -35,6 +35,16 @@
             "name": "Beautiful Fields HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.beautifulfields",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/beatifulfields.png"
+        },
+		{
+            "name": "Sun in the Forest HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.sunintheforest",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/sunintheforest.png"
+        },
+		{
+            "name": "Lions HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.lions",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/lions.png"
         }
     ]
 }

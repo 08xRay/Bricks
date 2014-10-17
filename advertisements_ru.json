@@ -35,6 +35,16 @@
             "name": "Красивые Поля HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.beautifulfields",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/beatifulfields.png"
+        },
+		{
+            "name": "Солнце в лесу HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.sunintheforest",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/sunintheforest.png"
+        },
+		{
+            "name": "Львы HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.lions",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/lions.png"
         }
     ]
 }
