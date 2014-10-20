@@ -45,6 +45,16 @@
             "name": "Lions HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.lions",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/lions.png"
+        },
+		{
+            "name": "Horses HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.horses",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/horses.png"
+        },
+		{
+            "name": "Dubai HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.dubai",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/dubai.png"
         }
     ]
 }

@@ -45,6 +45,16 @@
             "name": "Львы HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.lions",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/lions.png"
+        },
+		{
+            "name": "Лошади HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.horses",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/horses.png"
+        },
+		{
+            "name": "Дубай HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.dubai",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/dubai.png"
         }
     ]
 }
