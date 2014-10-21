@@ -55,6 +55,16 @@
             "name": "Дубай HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.dubai",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/dubai.png"
+        },
+		{
+            "name": "Франция HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.france",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/france.png"
+        },
+		{
+            "name": "Париж HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.paris",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/paris.png"
         }
     ]
 }
