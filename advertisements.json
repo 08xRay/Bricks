@@ -80,6 +80,11 @@
             "name": "White in Flowers HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.whiteinflowers",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/whiteinflowers.png"
+        },
+		{
+            "name": "Wild Cats HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.wildcats",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wildcats.png"
         }
     ]
 }
