@@ -65,6 +65,21 @@
             "name": "Paris HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.paris",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/paris.png"
+        },
+		{
+            "name": "Big Cities HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.bigcities",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/bigcities.png"
+        },
+		{
+            "name": "Winter HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.winter",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/winter.png"
+        },
+		{
+            "name": "White in Flowers HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.whiteinflowers",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/whiteinflowers.png"
         }
     ]
 }

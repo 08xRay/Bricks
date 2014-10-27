@@ -65,6 +65,21 @@
             "name": "Париж HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.paris",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/paris.png"
+        },
+		{
+            "name": "Большие Города HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.bigcities",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/bigcities.png"
+        },
+		{
+            "name": "Зима HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.winter",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/winter.png"
+        },
+		{
+            "name": "Белый в Цветах HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.whiteinflowers",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/whiteinflowers.png"
         }
     ]
 }
