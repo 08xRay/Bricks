@@ -85,6 +85,11 @@
             "name": "Дикие Кошки HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.wildcats",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wildcats.png"
+        },
+		{
+            "name": "Альпы HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.alpinemountains",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/alpes.png"
         }
     ]
 }
