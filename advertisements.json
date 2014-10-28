@@ -90,6 +90,11 @@
             "name": "Alpine Mountains HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.alpinemountains",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/alpes.png"
+        },
+		{
+            "name": "Husky HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.husky",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky.png"
         }
     ]
 }
