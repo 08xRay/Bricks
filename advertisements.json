@@ -95,6 +95,11 @@
             "name": "Husky HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.husky",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky.png"
+        },
+		{
+            "name": "Autumn Live Wallpaper FREE",
+            "package": "com.rsbartstudio.livewallpaper.autumn",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/autumn.png"
         }
     ]
 }
