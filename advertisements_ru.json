@@ -105,6 +105,11 @@
             "name": "Тёмные цветы HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.darkflowers",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/darkflowers.png"
+        },
+		{
+            "name": "Космос HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.space",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/space.png"
         }
     ]
 }
