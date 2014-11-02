@@ -100,6 +100,11 @@
             "name": "Осень Живые обои FREE",
             "package": "com.rsbartstudio.livewallpaper.autumn",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/autumn.png"
+        },
+		{
+            "name": "Тёмные цветы HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.darkflowers",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/darkflowers.png"
         }
     ]
 }

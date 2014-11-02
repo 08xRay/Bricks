@@ -100,6 +100,11 @@
             "name": "Autumn Live Wallpaper FREE",
             "package": "com.rsbartstudio.livewallpaper.autumn",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/autumn.png"
+        },
+		{
+            "name": "Dark Flowers HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.darkflowers",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/darkflowers.png"
         }
     ]
 }
