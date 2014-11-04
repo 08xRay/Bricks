@@ -110,6 +110,11 @@
             "name": "Космос HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.space",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/space.png"
+        },
+		{
+            "name": "Планеты HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.planets",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/planets.png"
         }
     ]
 }

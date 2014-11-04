@@ -110,6 +110,11 @@
             "name": "Space HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.space",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/space.png"
+        },
+		{
+            "name": "Planets HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.planets",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/planets.png"
         }
     ]
 }
