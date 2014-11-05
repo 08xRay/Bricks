@@ -115,6 +115,11 @@
             "name": "Planets HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.planets",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/planets.png"
+        },
+		{
+            "name": "Forest HQ Live Wallpaper",
+            "package": "com.herowaystudio.livewallpaper.forest",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/forest.png"
         }
     ]
 }
