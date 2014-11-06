@@ -120,6 +120,16 @@
             "name": "Лес HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.forest",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/forest.png"
+        },
+		{
+            "name": "Швейцария HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.switzerland",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/switzerland.png"
+        },
+		{
+            "name": "Новогодние Шары HQ Живые обои",
+            "package": "com.herowaystudio.livewallpaper.christmasballs",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/christmasballs.png"
         }
     ]
 }
