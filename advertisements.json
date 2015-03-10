@@ -130,6 +130,11 @@
             "name": "Baubles HQ Live Wallpaper",
             "package": "com.herowaystudio.livewallpaper.christmasballs",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/christmasballs.png"
+        },
+		{
+            "name": "The Color of Time Live Wallpaper",
+            "package": "com.rsbartstudio.livewallpaper.thecoloroftime",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/thecoloroftime.png"
         }
     ]
 }

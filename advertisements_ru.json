@@ -130,6 +130,11 @@
             "name": "Новогодние Шары HQ Живые обои",
             "package": "com.herowaystudio.livewallpaper.christmasballs",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/christmasballs.png"
+        },
+		{
+            "name": "Цвет времени HQ Живые обои",
+            "package": "com.rsbartstudio.livewallpaper.thecoloroftime",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/thecoloroftime.png"
         }
     ]
 }
