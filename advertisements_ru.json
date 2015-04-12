@@ -135,6 +135,11 @@
             "name": "Личное время Живые обои",
             "package": "com.rsbartstudio.livewallpaper.thecoloroftime",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/thecoloroftime.png"
+        },
+		{
+            "name": "День Победы 70 Живые обои",
+            "package": "com.rsbartstudio.livewallpaper.victoryday",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/victoryday.png"
         }
     ]
 }

@@ -135,6 +135,11 @@
             "name": "Personal Time Live Wallpaper",
             "package": "com.rsbartstudio.livewallpaper.thecoloroftime",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/thecoloroftime.png"
+        },
+		{
+            "name": "Victory Day 70 Live Wallpaper",
+            "package": "com.rsbartstudio.livewallpaper.victoryday",
+            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/victoryday.png"
         }
     ]
 }
