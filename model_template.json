@@ -1,0 +1,10 @@
+{
+	"cntr": "Test_Country",
+    "tp": "VISA_TEST_TYPE",
+    "ps": [{
+            "asp": "0.8",
+            "w": 3,
+            "h": 4,
+            "tpb": 0.1
+    }]
+}
