@@ -1,5 +1,5 @@
 {
-	"cntr": "Test_Country",
+    "cntr": "Test_Country",
     "tp": "VISA_TEST_TYPE",
     "ps": [{
             "asp": "0.8",

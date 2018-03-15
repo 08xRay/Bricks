@@ -7,16 +7,6 @@
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/idPhotoFREE.png"
         },
 		{
-            "name": "Wolves HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.wolves",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolves.png"
-        },
-		{
-            "name": "Tigers HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.tigers",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/tiger.png"
-        },
-		{
             "name": "Wolf 3D Live Wallpaper",
             "package": "com.rsbartstudio.livewallpaper.wolf",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wolf3d.png"
@@ -32,104 +22,9 @@
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky3d.png"
         },
 		{
-            "name": "Beautiful Fields HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.beautifulfields",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/beatifulfields.png"
-        },
-		{
-            "name": "Sun in the Forest HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.sunintheforest",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/sunintheforest.png"
-        },
-		{
-            "name": "Lions HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.lions",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/lions.png"
-        },
-		{
-            "name": "Horses HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.horses",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/horses.png"
-        },
-		{
-            "name": "Dubai HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.dubai",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/dubai.png"
-        },
-		{
-            "name": "France HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.france",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/france.png"
-        },
-		{
-            "name": "Paris HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.paris",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/paris.png"
-        },
-		{
-            "name": "Big Cities HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.bigcities",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/bigcities.png"
-        },
-		{
-            "name": "Winter HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.winter",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/winter.png"
-        },
-		{
-            "name": "White in Flowers HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.whiteinflowers",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/whiteinflowers.png"
-        },
-		{
-            "name": "Wild Cats HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.wildcats",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/wildcats.png"
-        },
-		{
-            "name": "Alpine Mountains HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.alpinemountains",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/alpes.png"
-        },
-		{
-            "name": "Husky HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.husky",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/husky.png"
-        },
-		{
             "name": "Autumn Live Wallpaper FREE",
             "package": "com.rsbartstudio.livewallpaper.autumn",
             "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/autumn.png"
-        },
-		{
-            "name": "Dark Flowers HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.darkflowers",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/darkflowers.png"
-        },
-		{
-            "name": "Space HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.space",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/space.png"
-        },
-		{
-            "name": "Planets HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.planets",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/planets.png"
-        },
-		{
-            "name": "Forest HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.forest",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/forest.png"
-        },
-		{
-            "name": "Switzerland HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.switzerland",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/switzerland.png"
-        },
-		{
-            "name": "Baubles HQ Live Wallpaper",
-            "package": "com.herowaystudio.livewallpaper.christmasballs",
-            "image_url": "https://raw.githubusercontent.com/SteveRay/Bricks/master/AppIcons/christmasballs.png"
         },
 		{
             "name": "Personal Time Live Wallpaper",
